@@ -1,0 +1,20 @@
+.order-actions button {
+  margin-right: 10px;
+  padding: 6px 14px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.order-actions .accept {
+  background-color: #545454;
+  margin: 10px;
+  color: white;
+}
+
+.order-actions .reject {
+  background-color: tomato;
+  margin: 10px;
+  color: white;
+}
